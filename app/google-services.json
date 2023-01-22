@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "570030288371",
+    "project_id": "chatapplicton1",
+    "storage_bucket": "chatapplicton1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:570030288371:android:ec921796d6a08ef16af686",
+        "android_client_info": {
+          "package_name": "com.ibo.chatapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "570030288371-p97g4hp4a5i5hsgbmrqlrr2cke3e3c17.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiGMWgdvJkUFS_QqQajMnBpfmDhNdcjJ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "570030288371-p97g4hp4a5i5hsgbmrqlrr2cke3e3c17.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
